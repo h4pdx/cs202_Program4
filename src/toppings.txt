@@ -1,0 +1,20 @@
+Classic Mozzarella Cheese:false:1:200
+Vegan Cheese:true:1:100
+Parmesan Cheese:false:2:200
+3-Cheese Blend:false:3:300
+Pepperoni:false:1:200
+Grilled Chicken:false:2:200
+Sausage:false:1:300
+Vegan Sausage:true:1:200
+Bacon:false:2:300
+Pineapple:true:2:100
+Kale:true:1:100
+Spinach:true:1:100
+Jalapeno:true:1:100
+Bell Peppers:true:1:100
+Onions:true:1:100
+Mushrooms:true:1:100
+Roasted Garlic:true:1:100
+Artichoke Hearts:true:2:100
+Tomatoes:true:1:200
+Black Olives:true:1:100
