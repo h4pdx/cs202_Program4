@@ -17,9 +17,9 @@ o Implement at least one constructor with arguments
 o Use the super keyword in invoking a base class’ constructor. This is what we use instead of an initialization list. ***Write about this in your
 
 • Support dynamic binding with this programming assignment
-	o In your OO design, look for the self-similar behavior between classes – that is where dynamic binding applies
-	o In your design write-up discuss the difference between the functions that are being overridden versus those being overloaded
-	o Have at least one abstract base class
+• In your OO design, look for the self-similar behavior between classes – that is where dynamic binding applies
+• In your design write-up discuss the difference between the functions that are being overridden versus those being overloaded
+• Have at least one abstract base class
 
 • Implement at least two functions using function overloading between classes and experiment with the way function overloading works in Java.
 • And yes, you SHOULD use the string class!
