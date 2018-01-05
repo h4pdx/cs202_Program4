@@ -4,7 +4,8 @@ Programming Assignments #4 and 5
 CS 202 Programming Systems
 
 For This Program
-With both programs #4 and #5 you will be implementing your solutions using Java. Your goal must be to develop an object-oriented solution but this time implement it in Java. Make sure that your OO Design is not centered around your data structures – your data structures support the design but shouldn’t be the primary emphasis of your design. You may use Eclipse or IntelliJ to develop your software. Your Java programs must follow these rules:
+With both programs #4 and #5 you will be implementing your solutions using Java. Your goal must be to develop an object-oriented solution but this time implement it in Java. Make sure that your OO Design is not centered around your data structures – your data structures support the design but shouldn’t be the primary emphasis of your design. You may use Eclipse or IntelliJ to develop your software.
+  Your Java programs must follow these rules:
 • No public or friendly fields (data members) *** NONE!!!***
 • No friendly methods (member functions); this means the public, protected, or private keyword should be placed in front of each method.
 • Limit your use of static methods – these should be restricted to just utility functions and main
